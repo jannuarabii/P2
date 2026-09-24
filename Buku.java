@@ -22,7 +22,7 @@ class Buku {
             isDipinjam = true;
             System.out.println("Kamu berhasil minjam buku " + judul + " nihhh");
         } else {
-            System.out.println("Sayang banget buku" + judul + "lagi dipinjam");
+            System.out.println("Sayang banget buku" + judul + " lagi dipinjam");
         }
     }
 
